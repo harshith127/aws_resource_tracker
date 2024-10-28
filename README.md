@@ -1,0 +1,2 @@
+# aws_resource_tracker
+THIS SCRIPT WILL REPORT THE AWS RESOURCE USAGES
